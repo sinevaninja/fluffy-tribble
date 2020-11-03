@@ -493,7 +493,7 @@
 490	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#163.526#163.786
 491	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ak1995f#@ak1995f#163.786#164.046
 492	что	что	SCONJ	_	_	_	_	_	words@ak1995f#@ak1995f#164.046#164.306
-493	ээм	ээм	INTJ	_	Animacy=Anim|Case=Dat|Number=Plur	_	_	_	words@ak1995f#@ak1995f#164.306#164.566
+493	ээм	ээм	INTJ	_	_	_	_	_	words@ak1995f#@ak1995f#164.306#164.566
 494	//	//	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#164.566#164.853
 495	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#165.146#165.406
 496	как	как	ADV	_	Degree=Pos	_	_	_	words@ak1995f#@ak1995f#165.406#165.666
