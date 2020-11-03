@@ -530,7 +530,7 @@
 527	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ak1995f#@ak1995f#174.799#175.033
 528	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ak1995f#@ak1995f#175.033#175.267
 529	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#175.267#175.501
-530	мм	мм	INTJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#175.501#175.735
+530	мм	мм	INTJ	_	_	_	_	_	words@ak1995f#@ak1995f#175.501#175.735
 531	//	//	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#175.735#175.98
 532	воспитывается	воспитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ak1995f#@ak1995f#176.786#177.433
 533	//	//	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#177.433#178.08
@@ -729,7 +729,7 @@
 726	вещи	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ak1995f#@ak1995f#238.855#239.144
 727	как	как	SCONJ	_	_	_	_	_	words@ak1995f#@ak1995f#239.144#239.433
 728	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#239.433#239.746
-729	аа	аа	INTJ	_	Foreign=Yes	_	_	_	words@ak1995f#@ak1995f#240.153#240.423
+729	аа	аа	INTJ	_	_	_	_	_	words@ak1995f#@ak1995f#240.153#240.423
 730	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#240.423#240.693
 731	гендерная	гендерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ak1995f#@ak1995f#240.693#240.963
 732	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ak1995f#@ak1995f#240.963#241.233
@@ -756,7 +756,7 @@
 753	реформировать	реформировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ak1995f#@ak1995f#246.633#246.903
 754	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ak1995f#@ak1995f#246.903#247.173
 755	//	//	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#247.173#247.446
-756	ээ	ээ	INTJ	_	Foreign=Yes	_	_	_	words@ak1995f#@ak1995f#248.033#248.276
+756	ээ	ээ	INTJ	_	_	_	_	_	words@ak1995f#@ak1995f#248.033#248.276
 757	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#248.276#248.519
 758	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@ak1995f#@ak1995f#248.519#248.762
 759	не	не	PART	_	_	_	_	_	words@ak1995f#@ak1995f#248.762#249.005
