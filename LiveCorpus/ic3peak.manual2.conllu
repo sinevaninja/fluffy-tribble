@@ -563,7 +563,7 @@
 560	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#186.86#187.13
 561	государственный	государственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#187.13#187.4
 562	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#187.4#187.67
-563	мм	мм	INTJ	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#187.67#187.94
+563	мм	мм	INTJ	_	_	_	_	_	words@ak1995f#@ak1995f#187.67#187.94
 564	как	как	ADV	_	Degree=Pos	_	_	_	words@ak1995f#@ak1995f#187.94#188.21
 565	бы	бы	PART	_	_	_	_	_	words@ak1995f#@ak1995f#188.21#188.48
 566	не	не	PART	_	_	_	_	_	words@ak1995f#@ak1995f#188.48#188.75
