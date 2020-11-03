@@ -336,7 +336,7 @@
 333	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#100.15#100.82
 334	а	а	CCONJ	_	_	_	_	_	words@ak1995f#@ak1995f#100.926#101.534
 335	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ak1995f#@ak1995f#101.534#102.142
-336	скручу	скручить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ak1995f#@ak1995f#102.142#102.75
+336	скручу	скрутить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ak1995f#@ak1995f#102.142#102.75
 337	в	в	ADP	_	_	_	_	_	words@ak1995f#@ak1995f#102.75#103.358
 338	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@ak1995f#@ak1995f#103.358#103.966
 339	новой	новый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ak1995f#@ak1995f#103.966#104.574
