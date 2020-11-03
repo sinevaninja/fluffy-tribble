@@ -807,7 +807,7 @@
 804	сменила	сменить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ak1995f#@ak1995f#263.473#263.741
 805	три	три	NUM	_	Animacy=Inan|Case=Acc	_	_	_	words@ak1995f#@ak1995f#263.741#264.009
 806	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#264.009#264.277
-807	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ak1995f#@ak1995f#264.277#264.545
+807	университета	университет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@ak1995f#@ak1995f#264.277#264.545
 808	/	/	PUNCT	_	_	_	_	_	words@ak1995f#@ak1995f#264.545#264.826
 809	и	и	CCONJ	_	_	_	_	_	words@ak1995f#@ak1995f#265.22#265.442
 810	в	в	ADP	_	_	_	_	_	words@ak1995f#@ak1995f#265.442#265.664
