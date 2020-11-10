@@ -10,7 +10,7 @@
 7	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#6.298#6.683
 8	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#6.683#7.068
 9	и	и	CCONJ	_	_	_	_	_	words@aas1994m#@aas1994m#7.068#7.453
-10	моя	мой	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#7.453#7.838
+10	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#7.453#7.838
 11	младшая	младший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#7.838#8.223
 12	сестрёнка	сестрёнка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#8.223#8.608
 13	/	/	PUNCT	_	_	_	_	_	words@aas1994m#@aas1994m#8.608#8.993
@@ -641,7 +641,7 @@
 638	УЛЕЕЛЕ	УЛЕЕЛЕ	PROPN	_	_	_	_	_	words@aas1994m#@aas1994m#270.298#270.627
 639	/	/	PUNCT	_	_	_	_	_	words@aas1994m#@aas1994m#270.627#270.956
 640	где	где	ADV	_	Degree=Pos	_	_	_	words@aas1994m#@aas1994m#270.956#271.285
-641	моя	мой	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#271.285#271.614
+641	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#271.285#271.614
 642	дурь	дурь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@aas1994m#@aas1994m#271.614#271.943
 643	?	?	PUNCT	_	_	_	_	_	words@aas1994m#@aas1994m#271.943#272.277
 644	круто	круто	ADV	_	Degree=Pos	_	_	_	words@aas1994m#@aas1994m#272.725#273.089
