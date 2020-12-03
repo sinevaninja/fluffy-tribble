@@ -517,7 +517,7 @@
 514	/	/	PUNCT	_	_	_	_	_	words@aas1994m#@aas1994m#226.635#226.911
 515	еду	ехать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aas1994m#@aas1994m#226.911#227.187
 516	в	в	ADP	_	_	_	_	_	words@aas1994m#@aas1994m#227.187#227.463
-517	метро	метро	NOUN	_	Animacy=Inan|Case=Prep|Gender=Neut|Number=Sing	_	_	_	words@aas1994m#@aas1994m#227.463#227.739
+517	метро	метро	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@aas1994m#@aas1994m#227.463#227.739
 518	когда	когда	SCONJ	_	_	_	_	_	words@aas1994m#@aas1994m#227.739#228.015
 519	смотрю	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aas1994m#@aas1994m#228.015#228.291
 520	на	на	ADP	_	_	_	_	_	words@aas1994m#@aas1994m#228.291#228.567
@@ -958,8 +958,8 @@
 955	угу	угу	INTJ	_	_	_	_	_	words@nr2000m#@nr2000m#327.355#327.911
 956	расскажи	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@vt2000m#@vt2000m#1.96#2.22
 957	о	о	ADP	_	_	_	_	_	words@vt2000m#@vt2000m#2.22#2.48
-958	своей	свой	DET	_	Case=Prep|Gender=Fem|Number=Sing	_	_	_	words@vt2000m#@vt2000m#2.48#2.74
-959	семье	семья	NOUN	_	Animacy=Inan|Case=Prep|Gender=Fem|Number=Sing	_	_	_	words@vt2000m#@vt2000m#2.74#3.0
+958	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@vt2000m#@vt2000m#2.48#2.74
+959	семье	семья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@vt2000m#@vt2000m#2.74#3.0
 960	кем	кто	PRON	_	Case=Ins	_	_	_	words@vt2000m#@vt2000m#14.111#14.33
 961	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vt2000m#@vt2000m#14.33#14.549
 962	твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vt2000m#@vt2000m#14.549#14.768
